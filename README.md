@@ -10,3 +10,4 @@ PRHA is a set of definitions and example implementations for setting up an power
 - Automatic network configuration with IPv6 RA, ND, SLAAC.
 - Automatic service discovery with mDNS
 
+![PRHA Network Overview](./prha-network-overview.drawio.svg)
